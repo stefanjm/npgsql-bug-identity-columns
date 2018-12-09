@@ -3,7 +3,7 @@ A Repository for Npgsql Core identity generation possible bug.
 
 .NET Core **2.2**, Entity Framework Core **2.2**
 
-Repository for issue: [#739](https://github.com/npgsql/Npgsql.EntityFrameworkCore.PostgreSQL/issues/739)
+Repository for Npgsql issue: [#739](https://github.com/npgsql/Npgsql.EntityFrameworkCore.PostgreSQL/issues/739)
 
 # RESOLVED 
 
